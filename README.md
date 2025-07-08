@@ -10,5 +10,8 @@ As stated above, I am using this repository to practice Git and GitHub.
 This will not be deployed.
 ## How to contribute
 
+### Copyright
+2025 Git. Training
+
 
 Sample website with plenty of files for demos
