@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Carlo -- Ceveloper -- @Bluem
 
 # THANKS
 
