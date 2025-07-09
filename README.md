@@ -9,7 +9,7 @@ As stated above, I am using this repository to practice Git and GitHub.
 ## Deployment
 This will not be deployed.
 ## How to contribute
-
+Please fork this repository and issue pull requests for review.
 ### Copyright
 2025 Git. Training
 
