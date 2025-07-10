@@ -11,7 +11,7 @@ This will not be deployed.
 ## How to contribute
 Please fork this repository and issue pull requests for review.
 ### Copyright
-2025 Git. Training
+2025 Git. Training. All Rights Reserved. 
 
 
 Sample website with plenty of files for demos
